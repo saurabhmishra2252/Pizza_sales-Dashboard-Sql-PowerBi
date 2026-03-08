@@ -41,3 +41,18 @@ Certain pizza categories generate significantly higher revenue
 Large-size pizzas contribute more to total sales
 Sales trends vary depending on day and time
 A small number of pizzas drive most of the revenue
+
+ Dashboard Preview
+### Sales Overview Dashboard
+![Sales Overview](Screenshot 2026-03-08 140301.png)
+
+### Best & Worst Seller Analysis
+![Best Worst Seller](Screenshot 2026-03-08 140332.png)
+
+### SQL Analysis Queries
+
+ Revenue, Orders & Sales Metrics
+![SQL Query](Screenshot 2026-03-08 140438.png)
+
+### Top & Bottom Selling Pizzas
+![SQL Query](Screenshot 2026-03-08 140456.png)
