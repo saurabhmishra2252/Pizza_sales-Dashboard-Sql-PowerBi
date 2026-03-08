@@ -48,7 +48,7 @@ A small number of pizzas drive most of the revenue.
 ![dashboard](dashboard.png)
 
 ### Best & Worst Seller Analysis
-![best & worst seller dashboard ](best & worst seller dashboard.ng)
+![best & worst seller dashboard ](best & worst seller dashboard.png)
 
 ---
 
