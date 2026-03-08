@@ -13,34 +13,34 @@ Track customer ordering patterns.
 Provide interactive insights using Power BI visualizations.
 
 Tools-
-SQL
-Power BI Desktop
-Power Query 
-DAX
-Data Visualization & Dashboard Design
+SQL,
+Power BI Desktop,
+Power Query ,
+DAX,
+Data Visualization & Dashboard Design.
 
 KPIs-
 Total Revenue,
 Total Orders,
 Total Pizzas Sold,
 Average Order Value,
-Average Pizzas per Order
+Average Pizzas per Order.
 
 Dashboard Insights-
                      The dashboard helps answer important business questions such as:
-Which pizza generates the highest revenue
-What are the top 5 best-selling pizzas
-Which pizzas perform the worst in sales
-Which pizza category contributes the most revenue
-What pizza sizes are ordered the most
-On which days and months sales peak
+Which pizza generates the highest revenue.
+What are the top 5 best-selling pizzas.
+Which pizzas perform the worst in sales.
+Which pizza category contributes the most revenue.
+What pizza sizes are ordered the most.
+On which days and months sales peak.
 
 Business Insights-
                  Some insights derived from the dashboard include:
-Certain pizza categories generate significantly higher revenue
-Large-size pizzas contribute more to total sales
-Sales trends vary depending on day and time
-A small number of pizzas drive most of the revenue
+Certain pizza categories generate significantly higher revenue.
+Large-size pizzas contribute more to total sales.
+Sales trends vary depending on day and time.
+A small number of pizzas drive most of the revenue.
 
  Dashboard Preview
 ### Sales Overview Dashboard
