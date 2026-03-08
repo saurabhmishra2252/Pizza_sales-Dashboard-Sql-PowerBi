@@ -20,10 +20,10 @@ DAX
 Data Visualization & Dashboard Design
 
 KPIs-
-Total Revenue
-Total Orders
-Total Pizzas Sold
-Average Order Value
+Total Revenue,
+Total Orders,
+Total Pizzas Sold,
+Average Order Value,
 Average Pizzas per Order
 
 Dashboard Insights-
