@@ -42,17 +42,17 @@ Large-size pizzas contribute more to total sales.
 Sales trends vary depending on day and time.
 A small number of pizzas drive most of the revenue.
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ### Sales Overview Dashboard
-![Sales Overview](sales_overview_dashboard.png)
+![dashboard](dashboard.png)
 
 ### Best & Worst Seller Analysis
-![Best Worst Seller](best_worst_seller.png)
+![best & worst seller ](best & worst seller.png)
 
 ---
 
-## 🗄️ SQL Analysis Queries
+##  SQL Analysis Queries
 
 ### Revenue, Orders & Sales Metrics
 ![SQL Query](sql_query_metrics.png)
